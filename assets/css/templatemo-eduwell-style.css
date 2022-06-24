@@ -220,7 +220,7 @@ section {
   font-size: 60px;
   font-weight: 900;
   text-transform: capitalize;
-  color: #111;
+  color: rgb(0, 35, 192);
 }
 
 .section-heading h4 em {
